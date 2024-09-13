@@ -18,8 +18,11 @@ namespace LeetCodeTasks
             /*Task50 task50 = new Task50();
             Console.WriteLine(task50.MyPow(2.00000, -2147483648));*/
 
-           Task33 task33 = new Task33();
-            Console.WriteLine(task33.Search([7, 8, 1, 2, 3, 4, 5, 6], 2));
+            /*Task33 task33 = new Task33();
+             Console.WriteLine(task33.Search([7, 8, 1, 2, 3, 4, 5, 6], 2));*/
+
+            Task3 task3 = new();
+            Console.WriteLine(task3.LengthOfLongestSubstring("abcabcbb")); 
 
 
         }
