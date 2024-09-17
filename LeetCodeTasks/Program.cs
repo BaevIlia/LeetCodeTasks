@@ -24,8 +24,11 @@ namespace LeetCodeTasks
             /*Task3 task3 = new();
             Console.WriteLine(task3.LengthOfLongestSubstring("abcabcbb"));*/
 
-            Task29 task29 = new Task29();
-            Console.WriteLine(task29.Divide(-2147483648, -1));
+            /*Task29 task29 = new Task29();
+            Console.WriteLine(task29.Divide(-2147483648, -1));*/
+
+            Task1431 task1431 = new();
+            Console.WriteLine(task1431.KidsWithCandies([4,2,1,1,2 ], 1));
 
 
         }
