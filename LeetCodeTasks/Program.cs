@@ -30,9 +30,11 @@ namespace LeetCodeTasks
             /*Task1431 task1431 = new();
             Console.WriteLine(task1431.KidsWithCandies([4,2,1,1,2 ], 1));*/
 
-            Task283 task283 = new Task283();
-            task283.MoveZeroes([1,0,0,5,0,16]);
+            //Task283 task283 = new Task283();
+            //task283.MoveZeroes([1,0,0,5,0,16]);
 
+            var task392 = new Task392();
+            Console.WriteLine(task392.IsSubsequence("axc", "ahbgdc")); 
 
         }
     }
