@@ -33,9 +33,11 @@ namespace LeetCodeTasks
             //Task283 task283 = new Task283();
             //task283.MoveZeroes([1,0,0,5,0,16]);
 
-            var task392 = new Task392();
-            Console.WriteLine(task392.IsSubsequence("axc", "ahbgdc")); 
+            //var task392 = new Task392();
+            //Console.WriteLine(task392.IsSubsequence("axc", "ahbgdc")); 
 
+            var task11 = new Task11();
+            task11.MaxArea([1, 1]);
         }
     }
 }
