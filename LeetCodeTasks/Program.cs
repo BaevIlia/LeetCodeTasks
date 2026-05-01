@@ -36,8 +36,11 @@ namespace LeetCodeTasks
             //var task392 = new Task392();
             //Console.WriteLine(task392.IsSubsequence("axc", "ahbgdc")); 
 
-            var task11 = new Task11();
-            task11.MaxArea([1, 1]);
+            //var task11 = new Task11();
+            //task11.MaxArea([1, 1]);
+
+            var task643 = new Task643();
+            task643.FindMaxAverage([1, 12, -5, -6, 50, 3], 4);
         }
     }
 }
