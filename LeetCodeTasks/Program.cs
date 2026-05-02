@@ -39,8 +39,11 @@ namespace LeetCodeTasks
             //var task11 = new Task11();
             //task11.MaxArea([1, 1]);
 
-            var task643 = new Task643();
-            task643.FindMaxAverage([1, 12, -5, -6, 50, 3], 4);
+            //var task643 = new Task643();
+            //task643.FindMaxAverage([1, 12, -5, -6, 50, 3], 4);
+
+            var task1456 = new Task1456();
+            task1456.MaxVowels("weallloveyou", 7);
         }
     }
 }
