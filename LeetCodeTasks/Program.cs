@@ -48,9 +48,11 @@ namespace LeetCodeTasks
             //var task1001 = new Task1001();
             //task1001.LongestOnes([1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], 2);
 
-            var task2215 = new Task2215();
-            var x = task2215.FindDifference([1, 2, 3, 3], [1, 1, 2, 2]);
-            var a = 1;
+            //var task2215 = new Task2215();
+            //var x = task2215.FindDifference([1, 2, 3, 3], [1, 1, 2, 2]);
+
+            var task1207 = new Task1207();
+            var a = task1207.UniqueOccurrences([1, 2, 2, 1, 1, 3]);
         }
     }
 }
