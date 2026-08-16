@@ -45,8 +45,12 @@ namespace LeetCodeTasks
             //var task1456 = new Task1456();
             //task1456.MaxVowels("weallloveyou", 7);
 
-            var task1001 = new Task1001();
-            task1001.LongestOnes([1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], 2);
+            //var task1001 = new Task1001();
+            //task1001.LongestOnes([1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0], 2);
+
+            var task2215 = new Task2215();
+            var x = task2215.FindDifference([1, 2, 3, 3], [1, 1, 2, 2]);
+            var a = 1;
         }
     }
 }
